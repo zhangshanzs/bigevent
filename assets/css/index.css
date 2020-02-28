@@ -1,0 +1,55 @@
+.iconfont {
+    margin-right: 10px;
+}
+
+.layui-icon {
+    margin-right: 8px;
+    /* 子菜单缩进 */
+    margin-left: 10px;
+}
+
+/* iframe */
+iframe {
+    width: 100%;
+    height: 100%;
+}
+.layui-body {
+    /* 解决滚动条问题 */
+    overflow: hidden;
+}
+
+.layui-footer{
+    font-size: 12px;
+    text-align: center;
+}
+
+/* 头像 */
+.avatar-contain {
+    columns: #ffffff;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    /* 不希望文本被选中 */
+    user-select: none;
+}
+
+.text-avatar {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #009688;
+    line-height: 40px;
+    text-align: center;
+    font-size: 24px;
+    color: #fff;
+    position: relative;
+    top: 4px;
+    margin-right: 8px;
+
+
+}
+.layui-nav-img {
+    width: 40px;
+    height: 40px;
+}
